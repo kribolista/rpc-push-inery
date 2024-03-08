@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "push": "node ./solution/rpc_push.js",
-    "destroy": "node ./solution/rpc_destroy.js"
+    "destroy": "node ./solution/rpc_destroy.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/kribolista/rpc-push-inery.git"
