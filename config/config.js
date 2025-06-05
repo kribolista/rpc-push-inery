@@ -2,7 +2,7 @@ import { Api, JsonRpc, JsSignatureProvider } from "ineryjs";
 import dotenv from "dotenv";
 dotenv.config();
 
-const url = "http://143.198.122.123:8888"; // your ip addres
+const url = "http://140.198.122.123:8888"; // your ip addres
 
 const json_rpc = new JsonRpc(url);
 const account = "kribolista"; //your inery account name
