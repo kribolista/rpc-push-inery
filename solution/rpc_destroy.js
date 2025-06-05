@@ -1,4 +1,4 @@
-import { Userapi, account, actor } from "./config/config.json";
+import { Userapi, account, actor } from "./config/config.js";
 
 const Destroy = async (id) => {
   try {
